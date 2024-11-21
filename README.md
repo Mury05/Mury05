@@ -1,6 +1,6 @@
 # 👋 Salut ! Je suis @Mury05
 
-Étudiante passionnée en développement d'applications web, je découvre avec enthousiasme le monde du code et les technologies modernes.
+Passionnée en développement d'applications web, je découvre avec enthousiasme le monde du code et les technologies modernes.
 
 ---
 
