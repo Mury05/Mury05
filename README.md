@@ -4,7 +4,7 @@
 
 ---
 
-##🔭 À propos de moi
+## 🔭 À propos de moi
 - 💻 Actuellement en formation intensive en développement web, je construis une base solide en **HTML**, **CSS**, **JavaScript**, **PHP**, et d'autres languages indispensables.
 - 🌱 J'aime apprendre de nouvelles compétences, échanger avec des développeurs expérimentés, et rester à jour sur les technologies émergentes.
 - 🎯 Mon objectif : réaliser des projets impactants, acquérir de l'expérience pratique, et transformer ma passion pour le code en une carrière gratifiante.
