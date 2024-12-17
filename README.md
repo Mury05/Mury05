@@ -13,10 +13,10 @@ Passionnée en développement d'applications web, je découvre avec enthousiasme
 
 ## 🛠️ Technologies & Outils
 ### **Langages**
-- HTML, CSS, JavaScript, PHP, Dart, SQL  
+- HTML, CSS, JavaScript, TypeScript, PHP, Dart, SQL  
 
 ### **Frameworks/Bibliothèques**
-- Frontend : TailwindCSS, Vue.js, Bootstrap  
+- Frontend : TailwindCSS, Vue.js, Angular, Bootstrap  
 - Backend : Express.js, Node.js, Laravel  
 - Mobile : Flutter  
 
