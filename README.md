@@ -11,23 +11,36 @@ Passionnée en développement d'applications web, je découvre avec enthousiasme
 
 ---
 
-## 🛠️ Technologies & Outils
-### **Langages**
-- HTML, CSS, JavaScript, TypeScript, Java, PHP, Dart, SQL  
+## 🛠️ Technologies & Outils  
 
-### **Frameworks/Bibliothèques**
-- Frontend : TailwindCSS, Vue.js, Nuxt.js, Angular, Bootstrap  
-- Backend : Express.js, Node.js, Laravel, Spring Boot 
-- Mobile : Flutter  
+### **Langages**  
+- HTML, CSS, JavaScript, TypeScript  
+- PHP, Java, Dart, Go, Python  
 
-### **Outils**
+### **Frameworks & Bibliothèques**  
+- **Frontend :** Tailwind CSS, Vue.js, Nuxt.js, Angular, Bootstrap  
+- **Backend :** Express.js, Node.js, Laravel, Spring Boot, Gin  
+- **Mobile :** Flutter  
+
+### **DevOps & Sécurité**  
+- **CI/CD :** GitHub Actions  
+- **Sécurité web :** Protection contre XSS, injections SQL, CSRF  
+
+### **Outils & Services**  
 - **Gestion de versions :** Git, GitHub, GitLab  
-- **Design & Prototypage :** Canva, Figma
-- **IDE & Éditeurs :** Visual Studio Code, IntelliJ IDEA, Android Studio
-- **Test et Debugging :** Postman, Insomnia 
+- **Design & Prototypage :** Canva, Figma  
+- **IDE & Éditeurs :** VS Code, IntelliJ IDEA, Android Studio  
+- **Test & Debugging :** Postman, Insomnia  
 
-### **Systèmes & Plateformes**
-- Linux, Windows
+### **Systèmes d'exploitation**  
+- Linux, Windows  
+
+## 🎓 Formation  
+- **Licence en Analyse Informatique et Programmation** – Université ENEAM (2021 - 2024)  
+
+## 🏆 Certifications  
+- **"Introduction to DevOps"** – IBM via Coursera (2025)  
+- **Sécurité des applications web** – Analyse des vulnérabilités & mise en œuvre de contre-mesures (XSS, SQL Injection, CSRF, etc.)  
 
 ---
 
