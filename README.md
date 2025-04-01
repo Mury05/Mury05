@@ -1,13 +1,16 @@
 # 👋 Salut ! Je suis @Mury05
 
-Passionnée en développement d'applications web, je découvre avec enthousiasme le monde du code et les technologies modernes.
+Passionnée par le développement web et mobile, je suis en quête constante d'apprentissage et d'amélioration. J'aime explorer de nouvelles technologies et relever des défis techniques pour créer des applications modernes et performantes.  
 
 ---
 
 ## 🔭 À propos de moi
-- 💻 Actuellement en formation intensive en développement web, je construis une base solide en **HTML**, **CSS**, **JavaScript**, **PHP**, et d'autres languages indispensables.
-- 🌱 J'aime apprendre de nouvelles compétences, échanger avec des développeurs expérimentés, et rester à jour sur les technologies émergentes.
-- 🎯 Mon objectif : réaliser des projets impactants, acquérir de l'expérience pratique, et transformer ma passion pour le code en une carrière gratifiante.
+- 💻 **Développeuse web et mobile**, en formation continue pour perfectionner mes compétences et bâtir des solutions innovantes.  
+- 🚀 Expérimentée en **Frontend** et **Backend**.  
+- 📱  Passionnée par le **développement mobile** avec **Flutter**.  
+- 🌱 Toujours en apprentissage, notamment sur **DevOps (CI/CD, GitHub Actions)**.  
+- 🎯 Mon objectif : **concevoir des applications performantes**, acquérir une expertise approfondie et contribuer à des projets innovants.  
+- 👥 J'aime **échanger avec d'autres développeurs**, apprendre des retours d'expérience et partager mes connaissances.  
 
 ---
 
@@ -33,10 +36,14 @@ Passionnée en développement d'applications web, je découvre avec enthousiasme
 - **Test & Debugging :** Postman, Insomnia  
 
 ### **Systèmes d'exploitation**  
-- Linux, Windows  
+- Linux, Windows
+
+---
 
 ## 🎓 Formation  
 - **Licence en Analyse Informatique et Programmation** – Université ENEAM (2021 - 2024)  
+
+---
 
 ## 🏆 Certifications  
 - **"Introduction to DevOps"** – IBM via Coursera (2025)  
@@ -56,7 +63,8 @@ Passionnée en développement d'applications web, je découvre avec enthousiasme
 
 ## 🌍 Retrouve-moi ici  
 <!--- 🌟 [LinkedIn](https://www.linkedin.com/in/aures-assogba-zehe)-->
-- [Github](https://github.com/Murielle05)  
+- [Github](https://github.com/Murielle05)
+- [e-mail](mailto:murielle.bokossa05@gmail.com)
 
 ---
 
