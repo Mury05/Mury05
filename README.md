@@ -7,7 +7,7 @@ Passionnée par le développement web et mobile, je suis en quête constante d'a
 ## 🔭 À propos de moi
 - 💻 **Développeuse web et mobile**, en formation continue pour perfectionner mes compétences et bâtir des solutions innovantes.  
 - 🚀 Expérimentée en **Frontend** et **Backend**.  
-- 📱  Passionnée par le **développement mobile** avec **Flutter**.  
+- 📱  Passionnée par le **développement mobile** avec **Flutter** et **React Native**.  
 - 🌱 Toujours en apprentissage, notamment sur **DevOps (CI/CD, GitHub Actions)**.  
 - 🎯 Mon objectif : **concevoir des applications performantes**, acquérir une expertise approfondie et contribuer à des projets innovants.  
 - 👥 J'aime **échanger avec d'autres développeurs**, apprendre des retours d'expérience et partager mes connaissances.  
@@ -21,9 +21,9 @@ Passionnée par le développement web et mobile, je suis en quête constante d'a
 - PHP, Java, Dart, Go, Python  
 
 ### **Frameworks & Bibliothèques**  
-- **Frontend :** Tailwind CSS, Vue.js, Nuxt.js, Angular, Bootstrap  
-- **Backend :** Express.js, Node.js, Laravel, Spring Boot, Gin  
-- **Mobile :** Flutter  
+- **Frontend :** Tailwind CSS, Bootstrap, Vue.js, Nuxt.js, Next.js, React.js, Angular 
+- **Backend :** Express.js, Node.js, Laravel, Spring Boot, Gin, Django
+- **Mobile :** Flutter, React Native
 
 ### **DevOps & Sécurité**  
 - **CI/CD :** GitHub Actions  
